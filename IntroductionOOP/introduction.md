@@ -1,5 +1,5 @@
-Q What is Procedural language
-=> In Procedural languatge you write statments or line of code for the computer to execute
+Q What is Procedural language\
+=> In Procedural languatge you write statments or line of code for the computer to execute\
 => You tell the computer what to do in basic steps
 => You have only variables and functions doing all the work for you and all the code is in one main function (Eg. C language)
 
